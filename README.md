@@ -34,8 +34,8 @@ An index repository of prebuilt Windows binaries of TensorFlow and OpenCV (Files
         </tr>
         <tr>
             <td>-</td>
-            <td></td>
-            <td></td>
+            <td><a href="https://drive.google.com/file/d/1OCesHKEHJ2Ps9uqGPy8qBAulnZhnRLG7/view?usp=sharing">libtensorflow-2.2.0.7z</a></td>
+            <td>73.64MB</td>
         </tr>
     </tbody>
 </table>
