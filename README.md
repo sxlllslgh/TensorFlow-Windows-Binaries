@@ -68,41 +68,47 @@ For someone with bad network connection, you could download **7z** file, then ex
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="5">4.4.0</td>
-            <td rowspan="5">11.0</td>
-            <td rowspan="5">8.0.2</td>
-            <td rowspan="5">2019</td>
-            <td rowspan="5">2020.2.254</td>
-            <td rowspan="5"><a href="https://drive.google.com/file/d/1WXtjIlI4X0qvJxKNMtHknPeztWPR7iQL/view?usp=sharing">2020.2.216</a> (125.05KB)</td>
-            <td>3.8.3</td>
-            <td colspan="2">-</td>
-            <td><a href="https://drive.google.com/file/d/12OCyPSyhPbfAVP6uCzzEhD-6mZaISSnq/view?usp=sharing">cv2.7z</a></td>
+            <td rowspan="6">4.4.0</td>
+            <td rowspan="6">11.0</td>
+            <td rowspan="6">8.0.2</td>
+            <td rowspan="6">2019</td>
+            <td rowspan="6">2020.2.254</td>
+            <td rowspan="6">2020.2.216</td>
+            <td rowspan="2">3.8.3</td>
+            <td>Static</td>
+            <td rowspan="2">Yes</td>
+            <td><a href="https://drive.google.com/file/d/12OCyPSyhPbfAVP6uCzzEhD-6mZaISSnq/view?usp=sharing">:arrow_down:</a></td>
             <td>40.43MB</td>
+        </tr>
+        <tr>
+            <td>Dynamic</td>
+            <td><a href="https://drive.google.com/file/d/1jjCebKqpgiZx3xcs7AopB8hFyFHi3FB8/view?usp=sharing">:arrow_down:</a></td>
+            <td>1.93MB</td>
         </tr>
         <tr>
             <td rowspan="4">-</td>
             <td>Static</td>
             <td>No</td>
-            <td><a href="https://drive.google.com/file/d/1H_16D1ohHyK3wTcjJaVKGqHzWgS-Sc23/view?usp=sharing">OpenCV-4.4.0-Static.7z</a></td>
+            <td><a href="https://drive.google.com/file/d/1H_16D1ohHyK3wTcjJaVKGqHzWgS-Sc23/view?usp=sharing">:arrow_down:</a></td>
             <td>87.70MB</td>
         </tr>
         <tr>
             <td>Static</td>
             <td>Yes</td>
-            <td><a href="https://drive.google.com/file/d/1GmgzTU_dRZ32USoHAygFGqYN_5EGeMs9/view?usp=sharing">OpenCV-4.4.0-Static-World.7z</a></td>
+            <td><a href="https://drive.google.com/file/d/1GmgzTU_dRZ32USoHAygFGqYN_5EGeMs9/view?usp=sharing">:arrow_down:</a></td>
             <td>87.52MB</td>
         </tr>
         <tr>
             <td>Dynamic</td>
             <td>No</td>
-            <td><a href=""></a></td>
-            <td></td>
+            <td><a href="https://drive.google.com/file/d/1VtvVXn9qPFMyFRIvrxbz3arhEma_Iptg/view?usp=sharing">:arrow_down:</a></td>
+            <td>44.49MB</td>
         </tr>
         <tr>
             <td>Dynamic</td>
             <td>Yes</td>
-            <td><a href=""></a></td>
-            <td></td>
+            <td><a href="https://drive.google.com/file/d/1-LIUtU7upa73YjwA9qHWGKA97Fv7s2ZU/view?usp=sharing">:arrow_down:</a></td>
+            <td>42.18MB</td>
         </tr>
     </tbody>
 </table>
@@ -113,6 +119,10 @@ For someone with bad network connection, you could download **7z** file, then ex
 
    解压文件到***Python安装目录\\Lib\\site-packages\\cv2***下。
 
-2. You may need **tbb.dll** in your system PATH, which is also provided. For Python, if PATH not works, put it in the same directory as ***cv2.x.pyd***.
+2. You **MUST** install TBB and may need put **tbb.dll** in your system Path. For Python, if PATH not works, put it in the same directory as ***cv2.x.pyd***.
 
-   你可能也需要把**tbb.dll**放在系统环境变量的PATH下，此文件也提供下载。Python的环境变量如果查找不到它，请放到和***cv2.x.pyd***同目录下。
+   你**必须**安装TBB，可能也需要把**tbb.dll**放在系统环境变量的路径（Path）下。Python的环境变量如果查找不到它，请放到和***cv2.x.pyd***同目录下。
+
+3. MKL is neccessary for dynamic libraries or Python packages. Path related solution refers above.
+
+   动态库或Python包必须安装MKL。系统环境变量的路径（Path）相关操作见上一条。
