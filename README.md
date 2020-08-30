@@ -20,6 +20,19 @@ An index repository of prebuilt Windows binaries of TensorFlow and OpenCV (Files
     </thead>
     <tbody align="center">
         <tr>
+            <td rowspan="2">2.3</td>
+            <td rowspan="2">11.0.3</td>
+            <td rowspan="2">8.0.2</td>
+            <td rowspan="2">2019</td>
+            <td rowspan="2">3.8.5</td>
+            <td><a href="https://drive.google.com/file/d/1KVSd7agoxkn3U9p0icc9maXG2NnQBir_/view?usp=sharing">tensorflow-2.3.0-cp38-cp38-win_amd64.whl</a></td>
+            <td>506.53MB</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1esQuv9D5xCJT6-4QxVbYNI6U7L3bsUGq/view?usp=sharing">tensorflow-2.3.0-cp38-cp38-win_amd64.7z</a></td>
+            <td>155.41MB</td>
+        </tr>
+        <tr>
             <td rowspan="3">2.2</td>
             <td rowspan="3">10.2</td>
             <td rowspan="3">7.6.5</td>
