@@ -97,6 +97,10 @@ An index repository of prebuilt Windows binaries of TensorFlow and OpenCV (Files
 2. MKL-enabled libraries need **mklml.dll** and **libiomp5md.dll** in system Path, or just in the same path as **Python.exe**.
 
    启用MKL的库需要把**mklml.dll**和**libiomp5md.dll**放在系统环境变量的路径（Path）中，或者直接把他们放到**Python.exe**同目录下。
+   
+   | TensorFlow | Google Drive | 奶牛快传 |
+   | :-: | :-: | :-: |
+   | 2.3.0 | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://drive.google.com/file/d/1ra3yG373VFei0Lu-w52YcBc_pmGv_JaU/view?usp=sharing) | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://mua.cowtransfer.com/s/d11e9a2794fc4a)
 
 ## OpenCV
 
