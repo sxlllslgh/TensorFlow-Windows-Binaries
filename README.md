@@ -22,15 +22,20 @@ An index repository of prebuilt Windows binaries of TensorFlow and OpenCV (Files
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="1">2.4 RC0</td>
-            <td rowspan="1">11.1 Update 1</td>
-            <td rowspan="1">8.0.4</td>
-            <td rowspan="1">2019</td>
-            <td rowspan="1">Yes</td>
-            <td rowspan="1">3.9.0</td>
+            <td rowspan="2">2.4 RC0</td>
+            <td rowspan="2">11.1 Update 1</td>
+            <td rowspan="2">8.0.4</td>
+            <td rowspan="2">2019</td>
+            <td rowspan="2">Yes</td>
+            <td rowspan="2">3.9.0</td>
             <td><a href="https://drive.google.com/file/d/1-77K36l80DeVa_o8lhX_KXZuNcNcc03D/view?usp=sharing" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/c9e17e1f70e547" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.whl">:arrow_down:</a>
             <td>717.82MB</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1Eq8zJY-i2sBlEttaUzm5pIBjh5ofQMDc/view?usp=sharing" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/dbdea81568e24b" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a>
+            <td>292.58MB</td>
         </tr>
         <tr>
             <td rowspan="6">2.3</td>
