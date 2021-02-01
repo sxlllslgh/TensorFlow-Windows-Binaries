@@ -21,6 +21,24 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
     </thead>
     <tbody align="center">
         <tr>
+            <td rowspan="2">2.4.1</td>
+            <td rowspan="2">11.2</td>
+            <td rowspan="2">8.1.0</td>
+            <td rowspan="2">2019</td>
+            <td rowspan="2">Yes</td>
+            <td rowspan="2">3.9.1</td>
+            <td><a href="https://drive.google.com/file/d/133nLLrdV5VHNT1zmrNd7aksq7KZm1KI_/view?usp=sharing" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/c7bcb81c6ee741" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
+            <td>wheel</td>
+            <td>721.08MB</td>
+        </tr>
+        <tr>
+            <td><a href="https://drive.google.com/file/d/1rFcTxiXT_IC801HD7NY2xLCqabEKAXzm/view?usp=sharing" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
+            <td><a href="https://mua.cowtransfer.com/s/5f2ec0edd95242" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
+            <td>wheel (rar)</td>
+            <td>294.55MB</td>
+        </tr>
+        <tr>
             <td rowspan="4">2.4 RC0</td>
             <td rowspan="4">11.1 Update 1</td>
             <td rowspan="4">8.0.4</td>
@@ -141,4 +159,12 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
    
    | TensorFlow | Google Drive | 奶牛快传 |
    | :-: | :-: | :-: |
-   | 2.3.0 | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://drive.google.com/file/d/1ra3yG373VFei0Lu-w52YcBc_pmGv_JaU/view?usp=sharing) | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://mua.cowtransfer.com/s/d11e9a2794fc4a)
+   | 2.3.0 | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://drive.google.com/file/d/1ra3yG373VFei0Lu-w52YcBc_pmGv_JaU/view?usp=sharing) | [mklml-libiomp5md-tensorflow-2.3.0.rar](https://mua.cowtransfer.com/s/d11e9a2794fc4a)|
+3. ***For 2.4.1 and higher,***
+   MKL-enabled libraries need **libomp.dll** in system Path, or just in the same path as **Python.exe**.
+
+   ***对于2.4.1及更高版本,***
+   启用MKL的库需要把**libomp.dll**放在系统环境变量的路径（Path）中，或者直接把他们放到**Python.exe**同目录下。
+   | TensorFlow | Google Drive | 奶牛快传 |
+   | :-: | :-: | :-: |
+   | 2.4.1 | [libomp-tensorflow-2.4.1.rar](https://drive.google.com/file/d/13LJJf0ihKenGHo5QWDTbSAUXw-MS9qF1/view?usp=sharing) | [libomp-tensorflow-2.4.1.rar](https://mua.cowtransfer.com/s/1d50abb94e7940) |
