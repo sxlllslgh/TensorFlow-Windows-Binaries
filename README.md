@@ -21,6 +21,24 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
     </thead>
     <tbody align="center">
         <tr>
+            <td rowspan="2">2.5.0</td>
+            <td rowspan="2">11.3</td>
+            <td rowspan="2">8.2.0</td>
+            <td rowspan="2">2019</td>
+            <td rowspan="2">Yes</td>
+            <td rowspan="2">3.9.5</td>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/4d2651ef938f48" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
+            <td>wheel</td>
+            <td>393.64MB</td>
+        </tr>
+        <tr>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/b9de7718024b47" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
+            <td>wheel (rar)</td>
+            <td>249.58MB</td>
+        </tr>
+        <tr>
             <td rowspan="6">2.4.1</td>
             <td rowspan="6">11.2</td>
             <td rowspan="6">8.1.0</td>
@@ -166,6 +184,7 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
    | TensorFlow | Google Drive | 奶牛快传 |
    | :-: | :-: | :-: |
    | 2.4.1 | [libomp-tensorflow-2.4.1.rar](https://drive.google.com/file/d/13LJJf0ihKenGHo5QWDTbSAUXw-MS9qF1/view?usp=sharing) | [libomp-tensorflow-2.4.1.rar](https://mua.cowtransfer.com/s/1d50abb94e7940) |
+   | 2.5.0 | Coming soon | [libomp-tensorflow-2.5.0.rar](https://mua.cowtransfer.com/s/89f37fe1c3d040) |
 
 ## Notes
 
