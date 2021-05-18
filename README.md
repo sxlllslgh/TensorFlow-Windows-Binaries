@@ -21,11 +21,11 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="2">2.5.0</td>
-            <td rowspan="2">11.3</td>
-            <td rowspan="2">8.2.0</td>
-            <td rowspan="2">2019</td>
-            <td rowspan="2">Yes</td>
+            <td rowspan="6">2.5.0</td>
+            <td rowspan="6">11.3</td>
+            <td rowspan="6">8.2.0</td>
+            <td rowspan="6">2019</td>
+            <td rowspan="3">Yes</td>
             <td rowspan="2">3.9.5</td>
             <td>Coming soon</td>
             <td><a href="https://mua.cowtransfer.com/s/4d2651ef938f48" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
@@ -37,6 +37,34 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td><a href="https://mua.cowtransfer.com/s/b9de7718024b47" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
             <td>249.58MB</td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/97d28a84fb4b4b" title="tensorflow-cpp-mkl-2.5.0.rar">:arrow_down:</a></td>
+            <td>C++ Library (rar)</td>
+            <td>217.57MB</td>
+        </tr>
+        <tr>
+            <td rowspan="3">No</td>
+            <td rowspan="2">3.9.5</td>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/e528937f418749" title="tensorflow-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
+            <td>wheel</td>
+            <td>394.34MB</td>
+        </tr>
+        <tr>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/24f1fea4e9024e" title="tensorflow-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
+            <td>wheel (rar)</td>
+            <td>250.15MB</td>
+        </tr>
+        <tr>
+            <td>-</td>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/92a40527b2354e" title="tensorflow-cpp-2.5.0.rar">:arrow_down:</a></td>
+            <td>C++ Library (rar)</td>
+            <td>218.10MB</td>
         </tr>
         <tr>
             <td rowspan="6">2.4.1</td>
