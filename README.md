@@ -27,20 +27,20 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td rowspan="6">2019</td>
             <td rowspan="3">Yes</td>
             <td rowspan="2">3.9.5</td>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/13xdmJIpxKnsK9gPoVw0MtrcecOyeMtUr/view?usp=sharing" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/4d2651ef938f48" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
             <td>wheel</td>
             <td>393.64MB</td>
         </tr>
         <tr>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1Ozur_omBJyM7BXc9UAPG5QnIKnASRPD4/view?usp=sharing" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/b9de7718024b47" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
             <td>249.58MB</td>
         </tr>
         <tr>
             <td>-</td>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1gNr-K9okDXW7_rqC4YkPeT1b0tqtXOh2/view?usp=sharing" title="tensorflow-cpp-mkl-2.5.0.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/97d28a84fb4b4b" title="tensorflow-cpp-mkl-2.5.0.rar">:arrow_down:</a></td>
             <td>C++ Library (rar)</td>
             <td>217.57MB</td>
@@ -48,20 +48,20 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
         <tr>
             <td rowspan="3">No</td>
             <td rowspan="2">3.9.5</td>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1gPgW74anI9T-KhRByDvEpB8wyhmCuPsi/view?usp=sharing" title="tensorflow-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/e528937f418749" title="tensorflow-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
             <td>wheel</td>
             <td>394.34MB</td>
         </tr>
         <tr>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1FvgB1s8T7J0D6dNwYhcq9wpTaNoXZiTz/view?usp=sharing" title="tensorflow-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/24f1fea4e9024e" title="tensorflow-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
             <td>250.15MB</td>
         </tr>
         <tr>
             <td>-</td>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1O2NbLRMCJbpaaby2-_zlBRzKl_TKPeZA/view?usp=sharing" title="tensorflow-cpp-2.5.0.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/92a40527b2354e" title="tensorflow-cpp-2.5.0.rar">:arrow_down:</a></td>
             <td>C++ Library (rar)</td>
             <td>218.10MB</td>
@@ -212,7 +212,7 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
    | TensorFlow | Google Drive | 奶牛快传 |
    | :-: | :-: | :-: |
    | 2.4.1 | [libomp-tensorflow-2.4.1.rar](https://drive.google.com/file/d/13LJJf0ihKenGHo5QWDTbSAUXw-MS9qF1/view?usp=sharing) | [libomp-tensorflow-2.4.1.rar](https://mua.cowtransfer.com/s/1d50abb94e7940) |
-   | 2.5.0 | Coming soon | [libomp-tensorflow-2.5.0.rar](https://mua.cowtransfer.com/s/89f37fe1c3d040) |
+   | 2.5.0 | [libomp-tensorflow-2.5.0.rar](https://drive.google.com/file/d/1FTnh8e4eWeXqdV91IdPkZr4S8k18I5LY/view?usp=sharing) | [libomp-tensorflow-2.5.0.rar](https://mua.cowtransfer.com/s/89f37fe1c3d040) |
 
 ## Notes
 
