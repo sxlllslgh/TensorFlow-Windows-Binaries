@@ -11,6 +11,7 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <th>CUDA</th>
             <th>cuDNN</th>
             <th>VC</th>
+            <th>LLVM/Clang</th>
             <th>MKL</th>
             <th>Python</th>
             <th>Google Drive</th>
@@ -21,18 +22,26 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="6">2.5.0</td>
-            <td rowspan="6">11.3</td>
-            <td rowspan="6">8.2.0</td>
-            <td rowspan="6">2019</td>
-            <td rowspan="3">Yes</td>
-            <td rowspan="2">3.9.5</td>
-            <td><a href="https://drive.google.com/file/d/13xdmJIpxKnsK9gPoVw0MtrcecOyeMtUr/view?usp=sharing" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/4d2651ef938f48" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td>wheel</td>
-            <td>393.64MB</td>
+            <td>2.18.0-rc0</td>
+            <td>No</td>
+            <td>No</td>
+            <td>2022</td>
+            <td>18.1.7</td>
+            <td>No</td>
+            <td>3.12.7</td>
+            <td>Coming soon</td>
+            <td><a href="https://mua.cowtransfer.com/s/be2899cb50a046" title="tensorflow-2.18.0rc0-cp312-cp312-win_amd64.rar">:arrow_down:</a></td>
+            <td>wheel (rar)</td>
+            <td>234.81MB</td>
         </tr>
         <tr>
+            <td rowspan="4">2.5.0</td>
+            <td rowspan="4">11.3</td>
+            <td rowspan="4">8.2.0</td>
+            <td rowspan="4">2019</td>
+            <td rowspan="4">No</td>
+            <td rowspan="2">Yes</td>
+            <td>3.9.5</td>
             <td><a href="https://drive.google.com/file/d/1Ozur_omBJyM7BXc9UAPG5QnIKnASRPD4/view?usp=sharing" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/b9de7718024b47" title="tensorflow-mkl-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
@@ -46,14 +55,8 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td>217.57MB</td>
         </tr>
         <tr>
-            <td rowspan="3">No</td>
-            <td rowspan="2">3.9.5</td>
-            <td><a href="https://drive.google.com/file/d/1gPgW74anI9T-KhRByDvEpB8wyhmCuPsi/view?usp=sharing" title="tensorflow-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/e528937f418749" title="tensorflow-2.5.0-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td>wheel</td>
-            <td>394.34MB</td>
-        </tr>
-        <tr>
+            <td rowspan="2">No</td>
+            <td>3.9.5</td>
             <td><a href="https://drive.google.com/file/d/1FvgB1s8T7J0D6dNwYhcq9wpTaNoXZiTz/view?usp=sharing" title="tensorflow-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/24f1fea4e9024e" title="tensorflow-2.5.0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
@@ -67,18 +70,13 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td>218.10MB</td>
         </tr>
         <tr>
-            <td rowspan="6">2.4.1</td>
-            <td rowspan="6">11.2</td>
-            <td rowspan="6">8.1.0</td>
-            <td rowspan="6">2019</td>
-            <td rowspan="3">Yes</td>
-            <td rowspan="2">3.9.1</td>
-            <td><a href="https://drive.google.com/file/d/133nLLrdV5VHNT1zmrNd7aksq7KZm1KI_/view?usp=sharing" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/c7bcb81c6ee741" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td>wheel</td>
-            <td>721.08MB</td>
-        </tr>
-        <tr>
+            <td rowspan="4">2.4.1</td>
+            <td rowspan="4">11.2</td>
+            <td rowspan="4">8.1.0</td>
+            <td rowspan="4">2019</td>
+            <td rowspan="4">No</td>
+            <td rowspan="2">Yes</td>
+            <td>3.9.1</td>
             <td><a href="https://drive.google.com/file/d/1rFcTxiXT_IC801HD7NY2xLCqabEKAXzm/view?usp=sharing" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/5f2ec0edd95242" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
@@ -92,14 +90,8 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td>282.68MB</td>
         </tr>
         <tr>
-            <td rowspan="3">No</td>
-            <td rowspan="2">3.9.1</td>
-            <td><a href="https://drive.google.com/file/d/10djXCSPq67Kqio51CevW3zyzwW5syz67/view?usp=sharing" title="tensorflow-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/0b3b93cece634c" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.whl">:arrow_down:</a></td>
-            <td>wheel</td>
-            <td>717.59MB</td>
-        </tr>
-        <tr>
+            <td rowspan="2">No</td>
+            <td>3.9.1</td>
             <td><a href="https://drive.google.com/file/d/142TOrdYQqM5G87kvqn1s5nRfSM5qr26c/view?usp=sharing" title="tensorflow-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/1fa2c945657743" title="tensorflow-mkl-2.4.1-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
@@ -113,29 +105,11 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td>279.57MB</td>
         </tr>
         <tr>
-            <td rowspan="2">2.4 RC0</td>
-            <td rowspan="2">11.1 Update 1</td>
-            <td rowspan="2">8.0.4</td>
-            <td rowspan="2">2019</td>
-            <td>Yes</td>
-            <td rowspan="2">3.9.0</td>
-            <td><a href="https://drive.google.com/file/d/1Eq8zJY-i2sBlEttaUzm5pIBjh5ofQMDc/view?usp=sharing" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/dbdea81568e24b" title="tensorflow-mkl-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
-            <td>wheel (rar)</td>
-            <td>292.58MB</td>
-        </tr>
-        <tr>
-            <td>No</td>
-            <td><a href="https://drive.google.com/file/d/1FCh23hiFW_BvPqaTS9w1dO57Lor8Sl5s/view?usp=sharing" title="tensorflow-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
-            <td><a href="https://mua.cowtransfer.com/s/a4953691f9914b" title="tensorflow-2.4.0rc0-cp39-cp39-win_amd64.rar">:arrow_down:</a></td>
-            <td>wheel (rar)</td>
-            <td>292.55MB</td>
-        </tr>
-        <tr>
             <td rowspan="4">2.3</td>
             <td rowspan="4">11.0.3</td>
             <td rowspan="4">8.0.2</td>
             <td rowspan="4">2019</td>
+            <td rowspan="4">No</td>
             <td rowspan="2">Yes</td>
             <td>3.8.5</td>
             <td><a href="https://drive.google.com/file/d/1HkAJKGC_Jf8wr1HwsmHWOUfrvjEdDAkV/view?usp=sharing" title="tensorflow-2.3.0-cp38-cp38-win_amd64_mkl.rar">:arrow_down:</a></td>
@@ -170,6 +144,7 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td rowspan="2">10.2</td>
             <td rowspan="2">7.6.5</td>
             <td rowspan="2">2019</td>
+            <td rowspan="2">No</td>
             <td rowspan="2">No</td>
             <td>3.8.2</td>
             <td><a href="https://drive.google.com/file/d/1N0gjX8lH4HU5tzmdxJV6OQfnemjoLfhc/view?usp=sharing" title="tensorflow-2.2.0-cp38-cp38-win_amd64.rar">:arrow_down:</a></td>
