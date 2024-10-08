@@ -29,7 +29,7 @@ An index repository of prebuilt Windows binaries of TensorFlow (Files stored at 
             <td>18.1.7</td>
             <td>No</td>
             <td>3.12.7</td>
-            <td>Coming soon</td>
+            <td><a href="https://drive.google.com/file/d/1WrbV--z4X-iRunyuI5Q2zbsgB-EQZq9n/view?usp=sharing" title="tensorflow-2.18.0rc0-cp312-cp312-win_amd64.rar">:arrow_down:</a></td>
             <td><a href="https://mua.cowtransfer.com/s/be2899cb50a046" title="tensorflow-2.18.0rc0-cp312-cp312-win_amd64.rar">:arrow_down:</a></td>
             <td>wheel (rar)</td>
             <td>234.81MB</td>
